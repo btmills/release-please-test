@@ -1,0 +1,17 @@
+{
+  "name": "@btmills/release-please-test",
+  "version": "1.0.0",
+  "description": "Just a test",
+  "homepage": "https://github.com/btmills/release-please-test#readme",
+  "license": "ISC",
+  "author": {
+    "name": "Brandon Mills",
+    "url": "https://github.com/btmills"
+  },
+  "main": "index.js",
+  "repository": "btmills/release-please-test",
+  "scripts": {
+    "test": "node --test"
+  },
+  "type": "module"
+}
