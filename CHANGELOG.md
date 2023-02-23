@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/btmills/release-please-test/compare/v1.1.1...v1.1.2) (2023-02-23)
+
+
+### Bug Fixes
+
+* Add registry-url ([4b1ecc7](https://github.com/btmills/release-please-test/commit/4b1ecc768ab7027fce3b81419cf9cbe6e53e00c5))
+
 ## [1.1.1](https://github.com/btmills/release-please-test/compare/v1.1.0...v1.1.1) (2023-02-23)
 
 
