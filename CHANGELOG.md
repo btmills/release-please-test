@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/btmills/release-please-test/compare/v1.1.2...v1.1.3) (2023-02-23)
+
+
+### Bug Fixes
+
+* Restore npm token env var name ([a2f2406](https://github.com/btmills/release-please-test/commit/a2f240687872d7c84eddc49f111afc50cce83a22))
+
 ## [1.1.2](https://github.com/btmills/release-please-test/compare/v1.1.1...v1.1.2) (2023-02-23)
 
 
