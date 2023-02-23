@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/btmills/release-please-test/compare/v1.1.0...v1.1.1) (2023-02-23)
+
+
+### Bug Fixes
+
+* CI npm auth token ([4045692](https://github.com/btmills/release-please-test/commit/40456929df7505693cd6938b564427e2590b7b74))
+
 ## [1.1.0](https://github.com/btmills/release-please-test/compare/v1.0.1...v1.1.0) (2023-02-23)
 
 
