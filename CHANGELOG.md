@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/btmills/release-please-test/compare/v2.0.0...v2.0.1) (2023-02-26)
+
+
+### Bug Fixes
+
+* Release using latest LTS ([05e033d](https://github.com/btmills/release-please-test/commit/05e033d67553f8ef2565c50c5d15f183d3e43c89))
+* Skip tests before releasing ([1518c5d](https://github.com/btmills/release-please-test/commit/1518c5d2b4e0b2d7b998cfe17520206197388112))
+
 ## [2.0.0](https://github.com/btmills/release-please-test/compare/v1.1.3...v2.0.0) (2023-02-23)
 
 
