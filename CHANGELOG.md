@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/btmills/release-please-test/compare/v2.0.1...v2.0.2) (2023-02-28)
+
+
+### Miscellaneous Chores
+
+* Trigger release ([9f6cf8f](https://github.com/btmills/release-please-test/commit/9f6cf8f985ef80cb7f29be65654b9bd2a5ad6b97))
+
 ## [2.0.1](https://github.com/btmills/release-please-test/compare/v2.0.0...v2.0.1) (2023-02-26)
 
 
